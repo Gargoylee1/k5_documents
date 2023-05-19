@@ -2,7 +2,7 @@
 const AVAILABLE_JOBS = [
   {
     job: 'police',
-    templateGrades: [3, 4],
+    templateGrades: [11, 12, 13, 14],
     logo: 'https://i.imgur.com/YsTyMCc.png',
   },
   {
